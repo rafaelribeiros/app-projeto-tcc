@@ -17,7 +17,7 @@ class Navigator extends Component {
           id="master"
           defaultRouteConfig={{
             navigationBar: {
-              backgroundColor: 'red',
+              backgroundColor: 'green',
               tintColor: '#ffffff',
             }
           }}
